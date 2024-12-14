@@ -1,4 +1,4 @@
-# Emothion and Mental Health Chatbot
+# Emotion and Mental Health Chatbot
 
 A mental health chatbot that uses Google's Gemini and Hugging Face Transformers for sentiment analysis and mental health support. The app provides personalized responses to user queries and visualizes sentiment score in the form of pie charts to assess emotional states.
 
